@@ -1,0 +1,59 @@
+.bg-body-tertiary {
+    --bs-bg-opacity: 1;
+}
+.py-4 {
+    padding-top: 1.5rem !important;
+    padding-bottom: 1.5rem !important;
+}
+.align-items-center {
+    align-items: center !important;
+}
+
+body {
+    margin: 0;
+    font-family: Roboto, serif;
+    font-size: 16pt;
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+    width: max-content;
+
+}
+
+body, ::after, ::before {
+    box-sizing: border-box;
+}
+
+.form-signin {
+    max-width: 330px;
+    padding: 1rem;
+    margin-top: 300px;
+}
+.m-auto {
+    margin: auto !important;
+}
+.form-signin, ::after, ::before {
+    box-sizing: border-box;
+}
+main {
+    display: block;
+    unicode-bidi: isolate;
+}
+.form-floating {
+    position: relative;
+}
+.form-floating, ::after, ::before {
+    box-sizing: border-box;
+}
+.form-floating div {
+    display: block;
+    unicode-bidi: isolate;
+}
+.fw-light{
+    align-items: center;
+}
+h1 {
+    text-align: center;
+}
+.bg-success {
+    background-color: #d4edda !important;
+}
